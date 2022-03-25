@@ -2,7 +2,7 @@
 
 **Darktooth** is a port of the Emacs Darktooth theme for Nova.
 
-![](https://nova.app/images/en/dark/editor.png)
+![](https://raw.githubusercontent.com/jeremyfuksa/Darktooth.novaextension/main/Images/extension/darktooth-screenshot.png)
 
 ## Acknowledgements
 
