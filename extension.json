@@ -1,9 +1,9 @@
 {
-  "bugs": "mailto:hello@orangefla.me",
+  "bugs": "https://github.com/jeremyfuksa/Darktooth.novaextension/issues/new",
   "identifier": "com.jeremyfuksa.Darktooth",
   "name": "Darktooth for Nova",
   "organization": "Jeremy Fuksa",
-  "description": "A port of the Emacs Darktooth theme for Nova by Panic.",
+  "description": "A port of the Emacs Darktooth theme for Nova.",
   "version": "1.0",
   "categories": ["themes"],
   "homepage": "https://jeremyfuksa.com",
